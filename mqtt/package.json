@@ -1,5 +1,5 @@
 {
-  "name": "Mqtt Broker",
+  "name": "MqttBroker",
   "version": "0.1.0",
   "description": "Mqtt Broker for opneFPGAduino",
   "main": "server.js",
