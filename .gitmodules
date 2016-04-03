@@ -1,0 +1,3 @@
+[submodule "Gizwits-GAgent"]
+	path = Gizwits-GAgent
+	url = https://github.com/OpenFPGAduino/Gizwits-GAgent.git
